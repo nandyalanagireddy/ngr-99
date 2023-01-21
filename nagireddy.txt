@@ -2,4 +2,8 @@ hello
 banglore
 you are always great and beatuy 
 i had wonderfull time
+<<<<<<< HEAD
 i love banglore
+=======
+i love very much banglore
+>>>>>>> 31b266d6c7c89f00a502add5f714825426633f4d
